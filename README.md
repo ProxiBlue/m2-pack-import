@@ -10,12 +10,13 @@ This module allows import using FireBear ImportExport module, of product Pack Op
 
 ## Installation details
 
-* Install the module via composer: ```composer require proxi-blue/m2-pack-import```
-* Enable the module via bin/magento: ```module:enable ProxiBlue_PackImport```
-* Run bin/magento: ```setup:upgrade```
-* Run bin/magento: ```setup:di:compile```
-* Run bin/magento: ```setup:static-content:deploy```
-* Run bin/magento: ```cache:flush```
+You can install via composer:
+
+* run: `composer config repositories.github.repo.repman.io composer https://github.repo.repman.io`
+* use composer `composer require proxi-blue/multi-menu`
+* enable: `./bin/magento module:enable ProxiBlue_MultiMenu`
+* run: `./bin/magento setup:upgrade`
+* run: `./bin/magento setup:di:compile
 
 ## Usage
 
