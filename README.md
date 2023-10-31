@@ -65,3 +65,10 @@ The following import / data rules apply:
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+![image](https://github.com/ProxiBlue/m2-pack-import/assets/4994260/db33ab45-8c07-474b-8e72-0f32a01a8e47)
+![2023-10-31_04-20](https://github.com/ProxiBlue/m2-pack-import/assets/4994260/88be8f5d-da6d-4462-b3bb-733d93aa77e3)
+![2023-10-31_08-10](https://github.com/ProxiBlue/m2-pack-import/assets/4994260/673c06f9-824a-455f-aff4-f91038cd46cc)
+![2023-10-31_08-25](https://github.com/ProxiBlue/m2-pack-import/assets/4994260/62e31e6b-7701-4d58-93ca-19bfaeb4b7b5)
+
+
