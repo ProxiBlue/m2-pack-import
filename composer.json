@@ -1,0 +1,28 @@
+{
+    "name": "ProxiBlue/module-pack-import",
+    "version": "1.0.0",
+    "description": "Import Product Packs using FireBear import/export module",
+    "authors": [
+        {
+            "name": "Lucas van Staden ( ProxiBlue )",
+            "email": "lucas@proxiblue.com.au"
+        }
+    ],
+    "type": "magento2-module",
+    "require": {
+        "magento/framework": "*",
+        "firebear/importexport": "3.8.*",
+        "enanobots/m2-product-pack": ">1.0.6"
+    },
+    "license": [
+        "MIT"
+    ],
+    "autoload": {
+        "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+        "ProxiBlue\\PackImport\\": ""
+    }
+  }
+}
