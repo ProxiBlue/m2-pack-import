@@ -1,4 +1,4 @@
-# ProxiBlue_PackImport module
+# ProxiBlue PackImport Magento 2 Module
 
 This module allows import using FireBear ImportExport module, of product Pack Options as defined by eNanobots Pack Options module.
 
