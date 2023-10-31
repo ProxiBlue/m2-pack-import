@@ -13,8 +13,8 @@ This module allows import using FireBear ImportExport module, of product Pack Op
 You can install via composer:
 
 * run: `composer config repositories.github.repo.repman.io composer https://github.repo.repman.io`
-* use composer `composer require proxi-blue/multi-menu`
-* enable: `./bin/magento module:enable ProxiBlue_MultiMenu`
+* use composer `composer require proxi-blue/module-pack-import`
+* enable: `./bin/magento module:enable ProxiBlue_PackImport`
 * run: `./bin/magento setup:upgrade`
 * run: `./bin/magento setup:di:compile
 
