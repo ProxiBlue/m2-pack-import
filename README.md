@@ -6,7 +6,7 @@ This module allows import using FireBear ImportExport module, of product Pack Op
 ## Requirements
 
 * firebear/importexport >= 3.8
-* enanobots/m2-product-pack >= 1.0.7
+* enanobots/m2-product-pack >= 1.1.0
 
 ## Installation details
 
