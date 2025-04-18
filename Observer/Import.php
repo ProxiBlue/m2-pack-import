@@ -100,7 +100,7 @@ class Import implements ObserverInterface
      */
     public function writePackOption($row)
     {
-        $packData = json_decode($row['pack_data'], true);
+        $packData = json_decode((string) $row['pack_data'], true);
         foreach ($packData as $packOption) {
             $packOption['product_id'] = $row['product_id'];
             $this->resourceConnection->getConnection()

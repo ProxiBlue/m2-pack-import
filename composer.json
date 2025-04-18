@@ -1,6 +1,6 @@
 {
     "name": "proxi-blue/module-pack-import",
-    "version": "1.0.2",
+    "version": "1.0.",
     "description": "Import Product Packs using FireBear import/export module",
     "authors": [
         {
@@ -12,7 +12,8 @@
     "require": {
         "magento/framework": "*",
         "firebear/importexport": "3.8.*",
-        "qoliber/m2-product-pack": ">1.0.6"
+        "qoliber/m2-product-pack": ">1.0.6",
+        "php": ">=8.2 <8.4"
     },
     "license": [
         "MIT"
